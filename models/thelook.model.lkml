@@ -1,4 +1,4 @@
-connection: "sample_bigquery_connection"
+connection: "filippo-bq"
 label: " eCommerce"
 include: "/queries/queries*.view" # includes all queries refinements
 include: "/views/**/*.view" # include all the views
